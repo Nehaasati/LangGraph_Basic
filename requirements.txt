@@ -5,3 +5,4 @@ langgraph
 bs4
 python-dotenv
 pypdf
+langchain_groq
